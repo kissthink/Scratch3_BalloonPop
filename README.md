@@ -31,6 +31,8 @@ If you need help with variables please take a look at my
 
 **ADD SCORE**
 
+After creating a new variable, add the following code blocks to the project. 
+
 ![add score](https://github.com/zleap/Scratch3_BalloonPop/blob/master/add-score.png)
 
 
@@ -47,5 +49,5 @@ web: http://www.zleap.net
 ![cc-logo](https://github.com/zleap/Scratch3_BalloonPop/blob/master/88x31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwNjMwNDY1XX0=
+eyJoaXN0b3J5IjpbLTE4MjcwODM4NjhdfQ==
 -->
