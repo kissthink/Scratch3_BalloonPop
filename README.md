@@ -65,6 +65,7 @@ I have added the code to:-
  - Wait that amount  of time
  -    Show sprite
 
+You need to select the variable you want to use from the drop down menu.  
 
 **LICENSE AND COPYRIGHT**
 
@@ -78,5 +79,5 @@ web: http://www.zleap.net
 ![cc-logo](https://github.com/zleap/Scratch3_BalloonPop/blob/master/88x31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzExNDIzMzVdfQ==
+eyJoaXN0b3J5IjpbMTU5NzI5NTYyOF19
 -->
