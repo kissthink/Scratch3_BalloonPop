@@ -21,7 +21,7 @@ When the green flag is clicked, the balloon glides to a random position.  If it 
 
 If the balloon is clicked then 'pop' is played and the sprite is hidden.
 
-Now we have this working go ahead and add more balloons,  and copy the code over to each of the new balloons.
+Now we have this working,  go ahead and add more balloons, copy the code over to each of the new balloons.
 
 Can you add more blocks to keep score?  You will need a variable called **score**. 
 If you need help with variables please take a look at my 
@@ -34,5 +34,5 @@ web: http://www.zleap.net
 ![cc-logo](https://github.com/zleap/Scratch3_BalloonPop/blob/master/88x31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0ODMzNTkxXX0=
+eyJoaXN0b3J5IjpbOTgyMDY2MzIwXX0=
 -->
