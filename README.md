@@ -1,5 +1,12 @@
 # Scratch3_BalloonPop
 Another Scratch 3 game
+In this small game balloons move around at random. When clicked the ballooh hides, and 'pop' sound plays.
+
+Start with a background:
+![Background](https://github.com/zleap/Scratch3_BalloonPop/blob/master/backgroundBP.png) 
+
+Now add a Balloon Sprite:
+![BalloonSprite](https://github.com/zleap/Scratch3_BalloonPop/blob/master/baloon1.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2NzA4MDQxXX0=
+eyJoaXN0b3J5IjpbLTExMDk0OTQ3NjZdfQ==
 -->
