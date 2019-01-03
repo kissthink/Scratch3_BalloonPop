@@ -5,11 +5,11 @@ In this small game balloons move around at random. When clicked the ballooh hide
 Start with a background:
 ![Background](https://github.com/zleap/Scratch3_BalloonPop/blob/master/backgroundBP.png) 
 
-Now add a Balloon Sprite:
-![BalloonSprite](https://github.com/zleap/Scratch3_BalloonPop/blob/master/baloon1.png)
-
 Now add the code to the Balloon Sprite
 ![enter image description here](https://github.com/zleap/Scratch3_BalloonPop/blob/master/baloonBP.png)
+
+Now add a Balloon Sprite:
+![BalloonSprite](https://github.com/zleap/Scratch3_BalloonPop/blob/master/baloon1.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4NTMxMDczXX0=
+eyJoaXN0b3J5IjpbLTgwMTY3NDM2NV19
 -->
