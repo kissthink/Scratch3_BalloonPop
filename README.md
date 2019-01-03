@@ -23,6 +23,12 @@ If the balloon is clicked then 'pop' is played and the sprite is hidden.
 Now we have this working go ahead and add more balloons,  and copy the code over to each of the new balloons.
 
 Can you add more blocks to keep score?  You will need a variable called **score**. 
+
+By Paul Sutton  zleap@zleap.net
+http://www.zleap.net
+
+![cc-logo](https://github.com/zleap/Scratch3_BalloonPop/blob/master/88x31.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxMjQ3ODc2XX0=
+eyJoaXN0b3J5IjpbODI1Mzc1MzIxXX0=
 -->
