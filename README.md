@@ -13,7 +13,8 @@ Now add the code to the Balloon Sprite:
 
 
 Now add a Balloon Sprite:
+
 ![BalloonSprite](https://github.com/zleap/Scratch3_BalloonPop/blob/master/baloon1.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5NTgwMzcxXX0=
+eyJoaXN0b3J5IjpbODE1NzgzNzQ1XX0=
 -->
