@@ -53,6 +53,11 @@ Create a new variable called time and the following blocks.
 now connect the second two blocks together 
 
 ![delay2](https://github.com/zleap/Scratch3_BalloonPop/blob/master/add-delay2.png)
+
+You should get
+
+![delayb4show](https://github.com/zleap/Scratch3_BalloonPop/blob/master/code-delays-b4-show.png)
+
 **LICENSE AND COPYRIGHT**
 
 
@@ -65,5 +70,5 @@ web: http://www.zleap.net
 ![cc-logo](https://github.com/zleap/Scratch3_BalloonPop/blob/master/88x31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5MjExMzc2XX0=
+eyJoaXN0b3J5IjpbLTE4MTAxNjY0MzVdfQ==
 -->
