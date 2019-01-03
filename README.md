@@ -37,12 +37,15 @@ If you need help with variables please take a look at my
 
 **LICENSE AND COPYRIGHT**
 
+
 By Paul Sutton 3/1/2019
+
 e: zleap@zleap.net
+
 web: http://www.zleap.net
 
 ![cc-logo](https://github.com/zleap/Scratch3_BalloonPop/blob/master/88x31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTAzNjUwMDldfQ==
+eyJoaXN0b3J5IjpbNjMwNjMwNDY1XX0=
 -->
