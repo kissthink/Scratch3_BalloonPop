@@ -58,6 +58,14 @@ You should get
 
 ![delayb4show](https://github.com/zleap/Scratch3_BalloonPop/blob/master/code-delays-b4-show.png)
 
+For some reason, at the time of wrting when creating another variable it does not seem to show up in the variable list. 
+I have added the code to:- 
+
+ - Set My Variable to a random number between 0 and 5. 
+ - Wait that amount
+   of time
+   Show sprite
+
 **LICENSE AND COPYRIGHT**
 
 
@@ -70,5 +78,5 @@ web: http://www.zleap.net
 ![cc-logo](https://github.com/zleap/Scratch3_BalloonPop/blob/master/88x31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTAxNjY0MzVdfQ==
+eyJoaXN0b3J5IjpbLTIxMjg2OTY0NzZdfQ==
 -->
