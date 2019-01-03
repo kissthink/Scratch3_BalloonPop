@@ -24,11 +24,12 @@ Now we have this working go ahead and add more balloons,  and copy the code over
 
 Can you add more blocks to keep score?  You will need a variable called **score**. 
 
-By Paul Sutton  zleap@zleap.net
-http://www.zleap.net
+By Paul Sutton 3/1/2019
+e: zleap@zleap.net
+web: http://www.zleap.net
 
 ![cc-logo](https://github.com/zleap/Scratch3_BalloonPop/blob/master/88x31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1Mzc1MzIxXX0=
+eyJoaXN0b3J5IjpbLTEyODk5NDI0NF19
 -->
