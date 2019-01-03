@@ -7,12 +7,13 @@ Start with a background:
 ![Background](https://github.com/zleap/Scratch3_BalloonPop/blob/master/backgroundBP.png) 
 
 
-Now add the code to the Balloon Sprite:
+Now add a Balloon Sprite:
+
 
 ![enter image description here](https://github.com/zleap/Scratch3_BalloonPop/blob/master/baloonBP.png)
 
 
-Now add a Balloon Sprite:
+Now add the code to the Balloon Sprite:
 
 ![BalloonSprite](https://github.com/zleap/Scratch3_BalloonPop/blob/master/baloon1.png)
 
@@ -33,5 +34,5 @@ web: http://www.zleap.net
 ![cc-logo](https://github.com/zleap/Scratch3_BalloonPop/blob/master/88x31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzAxODQyMV19
+eyJoaXN0b3J5IjpbNDQ0ODMzNTkxXX0=
 -->
