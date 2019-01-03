@@ -35,6 +35,14 @@ After creating a new variable, add the following code blocks to the project.
 
 ![add score](https://github.com/zleap/Scratch3_BalloonPop/blob/master/add-score.png)
 
+**What is next ?**
+So far we show 3 balloons,  click on them,  after which they vanish.  Not much of a game here eh.  We should re-show the Balloons to keep the game going.  
+
+Add the following to the **end** of the When this sprite is clicked block.  
+
+![wait5andshow](https://github.com/zleap/Scratch3_BalloonPop/blob/master/wait5andshow.png)
+
+Once tested to make sure it re-appears after 5 seconds (you can set this to what you want) use the backpack to copy the code to teh rest of the balloons.
 
 
 **LICENSE AND COPYRIGHT**
@@ -49,5 +57,5 @@ web: http://www.zleap.net
 ![cc-logo](https://github.com/zleap/Scratch3_BalloonPop/blob/master/88x31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjcwODM4NjhdfQ==
+eyJoaXN0b3J5IjpbLTEyNzAwNTUwMjNdfQ==
 -->
