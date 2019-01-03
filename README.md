@@ -7,6 +7,9 @@ Start with a background:
 
 Now add a Balloon Sprite:
 ![BalloonSprite](https://github.com/zleap/Scratch3_BalloonPop/blob/master/baloon1.png)
+
+Now add the code to the Balloon Sprite
+![enter image description here](https://github.com/zleap/Scratch3_BalloonPop/blob/master/baloonBP.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk0OTQ3NjZdfQ==
+eyJoaXN0b3J5IjpbNjE4NTMxMDczXX0=
 -->
