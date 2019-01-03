@@ -50,6 +50,9 @@ So far the game is preductable.  Firstly the balloons reappear after 5 seconds. 
 Create a new variable called time and the following blocks.
 ![add-delay1](https://github.com/zleap/Scratch3_BalloonPop/blob/master/add-delays1.png)
 
+now connect the second two blocks together 
+
+![delay2](https://github.com/zleap/Scratch3_BalloonPop/blob/master/add-delay2.png)
 **LICENSE AND COPYRIGHT**
 
 
@@ -62,5 +65,5 @@ web: http://www.zleap.net
 ![cc-logo](https://github.com/zleap/Scratch3_BalloonPop/blob/master/88x31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDE3Mjc5NV19
+eyJoaXN0b3J5IjpbODc5MjExMzc2XX0=
 -->
