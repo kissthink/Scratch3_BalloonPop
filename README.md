@@ -15,6 +15,14 @@ Now add the code to the Balloon Sprite:
 Now add a Balloon Sprite:
 
 ![BalloonSprite](https://github.com/zleap/Scratch3_BalloonPop/blob/master/baloon1.png)
+
+When the green flag is clicked, the balloon glides to a random position.  If it touches the edge of the stage then it will bounce off and head in another direction.
+
+If the balloon is clicked then 'pop' is played and the sprite is hidden.
+
+Now we have this working go ahead and add more balloons,  and copy the code over to each of the new balloons.
+
+Can you add more blocks to keep score?  You will need a variable called **score**. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1NzgzNzQ1XX0=
+eyJoaXN0b3J5IjpbMjIxMjQ3ODc2XX0=
 -->
