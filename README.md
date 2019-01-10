@@ -76,6 +76,9 @@ Add the following
 
 ![stageclick](https://github.com/zleap/Scratch3_BalloonPop/blob/master/baloonpop-stageclick.png)
 
+We can add another background in the same way as we did earlier.  Once done you can manage these with the Backdrops tab.
+
+![manage backdrops](https://github.com/zleap/Scratch3_BalloonPop/blob/master/backdrops.png)
 
 **LICENSE AND COPYRIGHT**
 
@@ -89,5 +92,5 @@ web: http://www.zleap.net
 ![cc-logo](https://github.com/zleap/Scratch3_BalloonPop/blob/master/88x31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MTg4MDgzXX0=
+eyJoaXN0b3J5IjpbNDQzMjM5NDk1XX0=
 -->
