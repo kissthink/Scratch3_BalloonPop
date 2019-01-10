@@ -84,6 +84,8 @@ If we now add
 
 ![next-backdrop](https://github.com/zleap/Scratch3_BalloonPop/blob/master/next-backdrop.png)
 
+to the two blocks we just added. 
+
 Each time we click on the backdrop, not only do we lose a point but the backdrop changes.   
 
 Remember that it will only cycle through the backkdrops you are using and the more you use,  the bigger your project will be,  so take this in to account before adding too many. 
@@ -100,5 +102,5 @@ web: http://www.zleap.net
 ![cc-logo](https://github.com/zleap/Scratch3_BalloonPop/blob/master/88x31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjQyNDE0Ml19
+eyJoaXN0b3J5IjpbMTgwMTcwNzgxNl19
 -->
