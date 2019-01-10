@@ -71,8 +71,11 @@ You need to select the variable you want to use from the drop down menu.
 
 So far you score points if you click on Balloon.  So lets add some code, so that if the Stage is clicked we lose points.
 In the bottom right click on the current stage (backdrop) 
+
 Add the following
+
 ![stageclick](https://github.com/zleap/Scratch3_BalloonPop/blob/master/baloonpop-stageclick.png)
+
 
 **LICENSE AND COPYRIGHT**
 
@@ -86,5 +89,5 @@ web: http://www.zleap.net
 ![cc-logo](https://github.com/zleap/Scratch3_BalloonPop/blob/master/88x31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjI1NDM1MTldfQ==
+eyJoaXN0b3J5IjpbNDU5MTg4MDgzXX0=
 -->
