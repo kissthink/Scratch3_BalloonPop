@@ -80,6 +80,14 @@ We can add another background in the same way as we did earlier.  Once done you 
 
 ![manage backdrops](https://github.com/zleap/Scratch3_BalloonPop/blob/master/backdrops.png)
 
+If we now add
+
+![next-backdrop](https://github.com/zleap/Scratch3_BalloonPop/blob/master/next-backdrop.png)
+
+Each time we click on the backdrop, not only do we lose a point but the backdrop changes.   
+
+Remember that it will only cycle through the backkdrops you are using and the more you use,  the bigger your project will be,  so take this in to account before adding too many. 
+
 **LICENSE AND COPYRIGHT**
 
 
@@ -92,5 +100,5 @@ web: http://www.zleap.net
 ![cc-logo](https://github.com/zleap/Scratch3_BalloonPop/blob/master/88x31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzMjM5NDk1XX0=
+eyJoaXN0b3J5IjpbMTA0MjQyNDE0Ml19
 -->
